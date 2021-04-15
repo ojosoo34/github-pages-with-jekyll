@@ -1,8 +1,7 @@
 title: My Page
 author: Byungsoo
 email: ojosoo34@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Hello
+description: >Hello
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
